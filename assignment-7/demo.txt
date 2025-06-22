@@ -1,0 +1,332 @@
+invisible
+set-alg astar
+
+load assets/maze0
+solve
+export-path demo/maze0.ppm
+
+load assets/maze1
+solve
+export-path demo/maze1.ppm
+
+load assets/maze10
+solve
+export-path demo/maze10.ppm
+
+load assets/maze11
+solve
+export-path demo/maze11.ppm
+
+load assets/maze12
+solve
+export-path demo/maze12.ppm
+
+load assets/maze13
+solve
+export-path demo/maze13.ppm
+
+load assets/maze14
+solve
+export-path demo/maze14.ppm
+
+load assets/maze15
+solve
+export-path demo/maze15.ppm
+
+load assets/maze16
+solve
+export-path demo/maze16.ppm
+
+load assets/maze17
+solve
+export-path demo/maze17.ppm
+
+load assets/maze18
+solve
+export-path demo/maze18.ppm
+
+load assets/maze19
+solve
+export-path demo/maze19.ppm
+
+load assets/maze2
+solve
+export-path demo/maze2.ppm
+
+load assets/maze20
+solve
+export-path demo/maze20.ppm
+
+load assets/maze21
+solve
+export-path demo/maze21.ppm
+
+load assets/maze22
+solve
+export-path demo/maze22.ppm
+
+load assets/maze23
+solve
+export-path demo/maze23.ppm
+
+load assets/maze24
+solve
+export-path demo/maze24.ppm
+
+load assets/maze25
+solve
+export-path demo/maze25.ppm
+
+load assets/maze26
+solve
+export-path demo/maze26.ppm
+
+load assets/maze27
+solve
+export-path demo/maze27.ppm
+
+load assets/maze28
+solve
+export-path demo/maze28.ppm
+
+load assets/maze29
+solve
+export-path demo/maze29.ppm
+
+load assets/maze3
+solve
+export-path demo/maze3.ppm
+
+load assets/maze30
+solve
+export-path demo/maze30.ppm
+
+load assets/maze31
+solve
+export-path demo/maze31.ppm
+
+load assets/maze32
+solve
+export-path demo/maze32.ppm
+
+load assets/maze33
+solve
+export-path demo/maze33.ppm
+
+load assets/maze34
+solve
+export-path demo/maze34.ppm
+
+load assets/maze35
+solve
+export-path demo/maze35.ppm
+
+load assets/maze36
+solve
+export-path demo/maze36.ppm
+
+load assets/maze37
+solve
+export-path demo/maze37.ppm
+
+load assets/maze38
+solve
+export-path demo/maze38.ppm
+
+load assets/maze39
+solve
+export-path demo/maze39.ppm
+
+load assets/maze4
+solve
+export-path demo/maze4.ppm
+
+load assets/maze5
+solve
+export-path demo/maze5.ppm
+
+load assets/maze6
+solve
+export-path demo/maze6.ppm
+
+load assets/maze7
+solve
+export-path demo/maze7.ppm
+
+load assets/maze8
+solve
+export-path demo/maze8.ppm
+
+load assets/maze9
+solve
+export-path demo/maze9.ppm
+
+load assets/terrain0
+solve
+export-path demo/terrain0.ppm
+
+load assets/terrain1
+solve
+export-path demo/terrain1.ppm
+
+load assets/terrain10
+solve
+export-path demo/terrain10.ppm
+
+load assets/terrain11
+solve
+export-path demo/terrain11.ppm
+
+load assets/terrain12
+solve
+export-path demo/terrain12.ppm
+
+load assets/terrain13
+solve
+export-path demo/terrain13.ppm
+
+load assets/terrain14
+solve
+export-path demo/terrain14.ppm
+
+load assets/terrain15
+solve
+export-path demo/terrain15.ppm
+
+load assets/terrain16
+solve
+export-path demo/terrain16.ppm
+
+load assets/terrain17
+solve
+export-path demo/terrain17.ppm
+
+load assets/terrain18
+solve
+export-path demo/terrain18.ppm
+
+load assets/terrain19
+solve
+export-path demo/terrain19.ppm
+
+load assets/terrain2
+solve
+export-path demo/terrain2.ppm
+
+load assets/terrain20
+solve
+export-path demo/terrain20.ppm
+
+load assets/terrain21
+solve
+export-path demo/terrain21.ppm
+
+load assets/terrain22
+solve
+export-path demo/terrain22.ppm
+
+load assets/terrain23
+solve
+export-path demo/terrain23.ppm
+
+load assets/terrain24
+solve
+export-path demo/terrain24.ppm
+
+load assets/terrain25
+solve
+export-path demo/terrain25.ppm
+
+load assets/terrain26
+solve
+export-path demo/terrain26.ppm
+
+load assets/terrain27
+solve
+export-path demo/terrain27.ppm
+
+load assets/terrain28
+solve
+export-path demo/terrain28.ppm
+
+load assets/terrain29
+solve
+export-path demo/terrain29.ppm
+
+load assets/terrain3
+solve
+export-path demo/terrain3.ppm
+
+load assets/terrain30
+solve
+export-path demo/terrain30.ppm
+
+load assets/terrain31
+solve
+export-path demo/terrain31.ppm
+
+load assets/terrain32
+solve
+export-path demo/terrain32.ppm
+
+load assets/terrain33
+solve
+export-path demo/terrain33.ppm
+
+load assets/terrain34
+solve
+export-path demo/terrain34.ppm
+
+load assets/terrain35
+solve
+export-path demo/terrain35.ppm
+
+load assets/terrain36
+solve
+export-path demo/terrain36.ppm
+
+load assets/terrain37
+solve
+export-path demo/terrain37.ppm
+
+load assets/terrain38
+solve
+export-path demo/terrain38.ppm
+
+load assets/terrain39
+solve
+export-path demo/terrain39.ppm
+
+load assets/terrain4
+solve
+export-path demo/terrain4.ppm
+
+load assets/terrain5
+solve
+export-path demo/terrain5.ppm
+
+load assets/terrain6
+solve
+export-path demo/terrain6.ppm
+
+load assets/terrain7
+solve
+export-path demo/terrain7.ppm
+
+load assets/terrain8
+solve
+export-path demo/terrain8.ppm
+
+load assets/terrain9
+solve
+export-path demo/terrain9.ppm
+
+random 51 51
+solve
+export-path demo/random1.ppm
+
+random 101 101
+solve
+export-path demo/random2.ppm
+
+!quit
