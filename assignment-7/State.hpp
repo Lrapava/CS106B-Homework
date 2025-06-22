@@ -25,7 +25,10 @@ extern std::vector <Coord> resultedPath;
 void reset();
 void loadMap(std::istream& data);
 
-const std::string grad = "@&%QWNM0gB$#DR8mHXKAUbGOpV4d9h6PkqwSE2]ayjxY5Zoen[ult13If}C{iF|(7J)vTLs?z/*cr!+<>;=^,_:'-.` ";
+// const std::string grad = "@&%QWNM0gB$#DR8mHXKAUbGOpV4d9h6PkqwSE2]ayjxY5Zoen[ult13If}C{iF|(7J)vTLs?z/*cr!+<>;=^,_:'-.` ";
+// const std::string grad = " .,:ilwW";
+// const std::string grad = "@%#*+=-:. ";
+const std::string grad = " .:-=+*#%@";
 
 }
 
