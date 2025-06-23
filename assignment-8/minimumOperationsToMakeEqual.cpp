@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/description/
+
 class Solution {
 public:
     int minimumOperationsToMakeEqual(int x, int y) {

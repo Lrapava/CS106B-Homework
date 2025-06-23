@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/check-if-n-and-its-double-exist/description/
+
 class Solution {
 public:
     bool checkIfExist(vector<int>& arr) {
